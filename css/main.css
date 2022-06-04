@@ -6,7 +6,7 @@
 
 body{
     background-image: url("../images/index_bg.png");
-    background-size: contain;
+    background-size: cover;
 }
 
 img{
@@ -35,6 +35,22 @@ h1{
 
     /* identical to box height, or 42px */
     letter-spacing: 0.15em;
+    color: #FFFFFF;
+}
 
-color: #FFFFFF;
+.btn-small{
+    width: 200px;
+    height: 60px;
+    font-size: 18px;
+}
+
+#jogo {
+	width: 100%;
+}
+
+#jogo-iframe {
+	margin: 10px;
+	height: 524px;
+	width: 330px;
+	border: none;
 }
