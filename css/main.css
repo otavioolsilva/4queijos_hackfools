@@ -54,3 +54,8 @@ h1{
 	width: 330px;
 	border: none;
 }
+
+#imagemFinal{
+    width: 400px;
+    margin: auto;
+}
